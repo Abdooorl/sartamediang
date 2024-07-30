@@ -1,0 +1,23 @@
+{
+    "slides": [
+        {  
+            "src": "https://instagram.flos1-2.fna.fbcdn.net/v/t39.30808-6/393487097_318499544142148_456522161582194086_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDQweDc4MC5zZHIuZjMwODA4In0&_nc_ht=instagram.flos1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=5QGnOLG5C_MQ7kNvgEUfkfN&edm=AFg4Q8wAAAAA&ccb=7-5&ig_cache_key=MzIxNjQ1MDE3NDUwNTQxMDAxOA%3D%3D.2-ccb7-5&oh=00_AYBqxQxrQp5t2Lcflxv2KAISniy0EM0KzJzWanFq1UPE4A&oe=669FE8AD&_nc_sid=0b30b7",
+            "alt": "image-one for carousel"
+        },
+        {   
+           
+            "src": "https://instagram.flos1-2.fna.fbcdn.net/v/t39.30808-6/409145441_18237905668221276_755321138510654583_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuc2RyLmYzMDgwOCJ9&_nc_ht=instagram.flos1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=TacDBonKTpYQ7kNvgGr3BeA&edm=AEhyXUkAAAAA&ccb=7-5&ig_cache_key=MzI1NjE4ODExMzMxODU0NzA0Ng%3D%3D.2-ccb7-5&oh=00_AYAEQ_0KzbTqkVjOf220JFDzQNWPBLSy9gnsykZTM4fbMg&oe=669FEADB&_nc_sid=8f1549",
+            "alt": "image-two for carousel"
+        },
+        {
+            
+            "src": "https://instagram.flos1-2.fna.fbcdn.net/v/t39.30808-6/409161177_18237905701221276_3041827823935414458_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODYuc2RyLmYzMDgwOCJ9&_nc_ht=instagram.flos1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=EmRJHGnFMQIQ7kNvgFZVk-k&edm=AEhyXUkAAAAA&ccb=7-5&ig_cache_key=MzI1NjE4ODExMzEwODcwNjQ2MQ%3D%3D.2-ccb7-5&oh=00_AYDF2mnDmIGD3TPAvEDg3H9xXH0pqyDFEDWwdT_SQ4UdcQ&oe=669FBDD3&_nc_sid=8f1549",
+            "alt": "image-three for carousel"
+        },
+        {
+           
+            "src": "https://instagram.flos1-2.fna.fbcdn.net/v/t39.30808-6/410496398_18237905686221276_4840170038598290864_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuc2RyLmYzMDgwOCJ9&_nc_ht=instagram.flos1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=j1xlpH3U9k4Q7kNvgE0vjSw&edm=AEhyXUkAAAAA&ccb=7-5&ig_cache_key=MzI1NjE4ODExMzMwMTY0ODUzNA%3D%3D.2-ccb7-5&oh=00_AYCbL_FlCyk0cOq8GcPjA-qUJjJ5t1MUhYh_uf0Yb61hEg&oe=669FE58A&_nc_sid=8f1549",
+            "alt": "image-four for carousel"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "services" : [
+        {
+            "icon": "ph-duotone ph-waveform",
+            "text": "Sound or PA System",
+            "detail": "Get your sound system and PA at SartaMedia"
+        },
+        {
+            "icon": "ph-duotone ph-monitor-play",
+            "text": "LED or Projector screen",
+            "detail": "Full-Screen led or projector to offer real time coverage."
+        },
+        {
+            "icon": "ph-duotone ph-lightbulb",
+            "text": "Lighting creation",
+            "detail": "Lighting and decorative led light for your event."
+        },
+        {
+            "icon": "ph-duotone ph-cake",
+            "text": "Event Decoration",
+            "detail": "We provide a preferred full modern event decoration."
+        },
+        {
+            "icon": "ph-duotone ph-binoculars",
+            "text": "Exhibition booth ",
+            "detail": "We create perfect place to exhibit artwork, items etc"
+        },
+        {
+            "icon": "ph-duotone ph-microphone-stage",
+            "text": "Stage & Stage design",
+            "detail": "Wedding stage, conference stage, Dinner & Gala stage."
+        }
+    ]
+}

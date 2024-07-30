@@ -1,0 +1,19 @@
+{
+    "started": [
+        {
+            "icon": "ph-fill ph-chats-teardrop",
+            "text": "Get in Touch",
+            "detail": "Make contact with us through our website or social media account"
+        },
+        {
+            "icon": "ph-fill ph-calendar",
+            "text": "Schedule, Book or Rent ",
+            "detail": "Schedule & book your events, you can also rent equipment from us."
+        },
+        {
+            "icon": "ph-fill ph-clock-countdown",
+            "text": "Top Service Delivered",
+            "detail": "You just have to sit back and watch us make your event a memorable one."
+        }
+    ]
+}
