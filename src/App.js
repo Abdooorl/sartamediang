@@ -27,10 +27,10 @@ class App extends React.Component {
       <div className="App">
         <HeroSection />
         <Event />
-        <Carousel data={carouselData.slides}/>
-        <Services data={serviceData.services} />
-        <Started data={getStartedData.started} />
-        <Join/>
+        <Carousel id= "Portfolio" data={carouselData.slides}/>
+        <Services id= "Services" data={serviceData.services} />
+        <Started id="Get-Started" data={getStartedData.started} />
+        <Join  id="Contact-Us" />
         <Footer/>
       </div>
     )

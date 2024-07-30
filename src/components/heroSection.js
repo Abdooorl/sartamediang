@@ -4,19 +4,23 @@ function HeroSection(props) {
 
     const links = [{
         id : 1, 
-        text: "Portfolio"
+        text: "Portfolio",
+        href: "#Portfolio"
     },
     {
         id : 2, 
-        text: "Services"
+        text: "Services",
+        href: "#Services"
     },
     {
         id : 3, 
-        text: "Get Started"
+        text: "Get Started",
+        href: "#Get-Started"
     },
     {
         id : 4, 
-        text: "Contact Us"
+        text: "Contact Us",
+        href: "#Contact-Us"
     }
 
 ]
