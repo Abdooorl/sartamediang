@@ -614,5 +614,9 @@ body {
         width: 27rem;
         height: 23rem
     }
+
+    .footer {
+        padding-bottom: 1.5rem;
+    }
    
 }
